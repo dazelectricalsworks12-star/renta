@@ -1,0 +1,8 @@
+{
+  "name": "The-Rental",
+  "description": "A premium real estate platform for buying, selling, and renting houses and land. Features property management for owners and easy browsing for seekers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
